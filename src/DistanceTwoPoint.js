@@ -4,3 +4,7 @@ var DistanceTwoPoint = function(pos1, pos2){
 
     return Math.sqrt(x*x + y*y);
 };
+
+exports = {
+    DistanceTwoPoint : DistanceTwoPoint
+};
