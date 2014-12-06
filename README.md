@@ -1,4 +1,4 @@
 algorithm-lab
 =============
 
-Algorithm Lab with JS
+Algorithm Lab with J
