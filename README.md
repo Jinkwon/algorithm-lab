@@ -1,4 +1,8 @@
 algorithm-lab
 =============
 
-Algorithm Lab with J
+Algorithm Lab with JS
+
+
+- ClockDegree
+- DistanceTwoPoint
