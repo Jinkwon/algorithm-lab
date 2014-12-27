@@ -24,7 +24,7 @@ var SimplifyPath = function (points, tolerance){
             d.push(Math.sqrt(Math.pow(( point.x - this.p2.x ), 2) + Math.pow(( point.y - this.p2.y ), 2)));
             // return the smallest distance
             return d.sort(function (a, b){
-                return ( a - b ); //causes an array to be sorted numerically and ascending
+                return a - b; //causes an array to be sorted numerically and ascending
             })[0];
         };
     };
